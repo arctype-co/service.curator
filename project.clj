@@ -1,5 +1,5 @@
-(defproject arctype/service.curator "0.1.0-SNAPSHOT"
+(defproject arctype/service.curator "1.0.0"
   :dependencies 
   [[org.clojure/clojure "1.9.0"]
-   [arctype/service "0.1.0-SNAPSHOT"]
+   [arctype/service "1.0.0"]
    [curator "0.0.7"]])
